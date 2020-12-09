@@ -1,0 +1,9 @@
+README.md
+setup.py
+multiSrcDict/Translator.py
+multiSrcDict/__init__.py
+multiSrcDict/dict_util.py
+multiSrcDict.egg-info/PKG-INFO
+multiSrcDict.egg-info/SOURCES.txt
+multiSrcDict.egg-info/dependency_links.txt
+multiSrcDict.egg-info/top_level.txt

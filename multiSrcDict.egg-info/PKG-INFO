@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: multiSrcDict
+Version: 0.0.1
+Summary: Python multi-source dict
+Home-page: https://github.com/ThomasHuang168/multiSrcDict.git
+Author: Huang Hing Pang
+Author-email: huanghingpang@gmail.com
+License: MIT
+Description: # multiSrcDict
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Text Processing
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown

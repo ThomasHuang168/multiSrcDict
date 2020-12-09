@@ -12,6 +12,7 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/ThomasHuang168/multiSrcDict.git",
+    install_requires=[openpyxl]
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
